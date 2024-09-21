@@ -83,6 +83,6 @@ using namespace std;
 		
 		
 		void whomadethis(){
-			cout<<endl<<endl<<"-- MADE BY MATTHEW SANTOS and TOLENTINO! --"<<endl<<endl<<endl<<endl;
+			cout<<endl<<endl<<"-- MADE BY MARHOSA --"<<endl<<endl<<endl<<endl;
 		}
 
